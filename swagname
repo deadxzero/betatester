@@ -1,6 +1,0 @@
-ModIDS = {
-    [391315012] = true, -- Revfulx
-
-}
-
-return ModIDS
