@@ -1,5 +1,5 @@
 ModIDS = {
-    [2785935509] = true, -- Revfulx
+    [391315012] = true, -- Revfulx
     [] = true, -- losercouncil
     [] = true, -- losersalt
     [] = true, -- scarface
@@ -168,7 +168,7 @@ ModIDS = {
     []= true,
     [] = true,
     [] = true,
-    [391315012] = true, --- me admin
+    [] = true, --- me admin
 
 }
 
